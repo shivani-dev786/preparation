@@ -2,11 +2,21 @@
 
 Hi, I'm Shivani.
 
-I am a PHP Developer with 3 years of professional experience.
+I am a Software Engineer with 3 years of experience in PHP, MySQL, JavaScript, API Integrations, and CRM Development. I am currently preparing for Software Engineer roles at top product-based companies.
+  
+This repository documents my 9-month journey to become a Software Engineer at a top product-based company.
 
-This repository documents my 9-month journey to become a Software Engineer at a top MNC.
+## Tech Stack
 
-## Goals
+- PHP
+- MySQL
+- JavaScript
+- HTML
+- CSS
+- Git (Learning)
+- Data Structures & Algorithms (Learning)
+
+  ## Goals
 
 - Master Data Structures & Algorithms
 - Improve Problem Solving Skills
@@ -16,5 +26,8 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Crack Software Engineer Interviews at Top MNCs
 
 ## Current Progress
-
-- Day 1 ✅
+  ###Day 1 ✅
+- Learned Big O Basics
+- Created GitHub Profile
+- Created First Repository
+- Made First Commit
