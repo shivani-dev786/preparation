@@ -26,8 +26,19 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Crack Software Engineer Interviews at Top MNCs
 
 ## Current Progress
-  ###Day 1 ✅
+ 
+### Day 1 ✅
+
 - Learned Big O Basics
 - Created GitHub Profile
 - Created First Repository
 - Made First Commit
+- Created LeetCode Account
+
+### Day 2 ✅
+
+- Learned Array Basics
+- Understood Array Indexing (0-based indexing)
+- Learned Why Array Access is O(1)
+- Learned Why Array Search is O(n)
+- Understood Basic Memory Concept of Arrays
