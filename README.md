@@ -47,8 +47,8 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 
 - Learned Linear Search
 - Understood Best Case and Worst Case
-- Learned why Linear Search is O(n)
 - Started Python for DSA
-- Learned Python Variables
-- Learned print() function
-- Compared PHP and Python syntax
+- Learned Variables and print()
+- Learned Python Lists
+- Learned len()
+- Learned Positive and Negative Indexing
