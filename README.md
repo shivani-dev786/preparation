@@ -52,3 +52,15 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned Python Lists
 - Learned len()
 - Learned Positive and Negative Indexing
+
+  ### Day 4 ✅
+
+- Learned Python Functions
+- Understood the `def` keyword
+- Learned Function Parameters
+- Understood the difference between `print()` and `return`
+- Learned that Python returns `None` if no `return` statement is used
+- Started LeetCode Problem #1: Two Sum
+- Understood the problem statement
+- Learned the Brute Force approach
+- Understood why Brute Force has O(n²) Time Complexity
