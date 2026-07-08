@@ -64,3 +64,12 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Understood the problem statement
 - Learned the Brute Force approach
 - Understood why Brute Force has O(n²) Time Complexity
+
+- ## Daily Progress
+
+| Day |                 Topic                       | Status |
+|-----|---------------------------------------------|--------|
+| 1   | Big O Basics                                |   ✅   |
+| 2   | Arrays Basics                               |   ✅   |
+| 3   | Linear Search + Python Basics               |   ✅   |
+| 4   | Python Functions + Two Sum Introduction     |   ✅   |
