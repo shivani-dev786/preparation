@@ -65,11 +65,13 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned the Brute Force approach
 - Understood why Brute Force has O(n²) Time Complexity
 
-- ## Daily Progress
+  ### Day 5 ✅
 
-| Day |                 Topic                       | Status |
-|-----|---------------------------------------------|--------|
-| 1   | Big O Basics                                |   ✅   |
-| 2   | Arrays Basics                               |   ✅   |
-| 3   | Linear Search + Python Basics               |   ✅   |
-| 4   | Python Functions + Two Sum Introduction     |   ✅   |
+- Started LeetCode Problem #1: Two Sum
+- Understood the problem statement
+- Learned Brute Force approach
+- Understood O(n²) Time Complexity
+- Learned Python `range()`
+- Learned Nested Loops
+- Understood `range(i + 1, len(nums))`
+- Learned the concept of Empty Range
