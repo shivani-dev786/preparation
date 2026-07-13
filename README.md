@@ -78,7 +78,7 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned why `j` starts from `i + 1`
 - Avoided duplicate comparisons
 
-  ### Day 6 ✅
+### Day 6 ✅
 
 - Opened LeetCode Two Sum
 - Understood LeetCode function structure
