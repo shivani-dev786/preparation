@@ -77,3 +77,12 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Understood the role of `i` and `j`
 - Learned why `j` starts from `i + 1`
 - Avoided duplicate comparisons
+
+  ### Day 6 ✅
+
+- Opened LeetCode Two Sum
+- Understood LeetCode function structure
+- Learned the `pass` keyword
+- Understood Function Definition vs Function Call
+- Revised Nested Loops
+- Revised why `j` starts from `i + 1`
