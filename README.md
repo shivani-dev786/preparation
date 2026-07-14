@@ -89,10 +89,10 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 
 ### Day 7 ✅
 
-- Implemented the Brute Force solution for the Two Sum problem in Python.
-- Learned how nested loops work in a real interview problem.
-- Used an `if` statement to compare the sum with the target.
-- Learned why the solution returns indexes instead of values.
-- Understood the execution flow of functions.
-- Mastered the difference between `print()` and `return`.
-- Practiced dry running code without executing it.
+- Solved LeetCode Problem #1: Two Sum using the Brute Force approach
+- Implemented nested loops to compare pairs
+- Used an `if` statement to check the target sum
+- Returned indexes instead of values
+- Understood the time complexity: O(n²)
+- Understood the space complexity: O(1)
+- Successfully solved and submitted the first LeetCode problem (Two Sum) using the Brute Force approach.
