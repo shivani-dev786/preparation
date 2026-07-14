@@ -86,3 +86,13 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Understood Function Definition vs Function Call
 - Revised Nested Loops
 - Revised why `j` starts from `i + 1`
+
+### Day 7 ✅
+
+- Implemented the Brute Force solution for the Two Sum problem in Python.
+- Learned how nested loops work in a real interview problem.
+- Used an `if` statement to compare the sum with the target.
+- Learned why the solution returns indexes instead of values.
+- Understood the execution flow of functions.
+- Mastered the difference between `print()` and `return`.
+- Practiced dry running code without executing it.
