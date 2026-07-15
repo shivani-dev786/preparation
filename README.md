@@ -96,3 +96,13 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Understood the time complexity: O(n²)
 - Understood the space complexity: O(1)
 - Successfully solved and submitted the first LeetCode problem (Two Sum) using the Brute Force approach.
+
+  ### Day 8 ✅
+
+- Started learning the optimized solution for the Two Sum problem.
+- Learned the concept of a Dictionary (Hash Map).
+- Understood how to calculate the required number using:
+- Required Number = Target - Current Number
+- Learned to search for the required number in the dictionary.
+- Learned to store the current number as the key and the current index as the value.
+- Started understanding how the time complexity improves from O(n²) to O(n).
