@@ -106,3 +106,15 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned to search for the required number in the dictionary.
 - Learned to store the current number as the key and the current index as the value.
 - Started understanding how the time complexity improves from O(n²) to O(n).
+
+### Day 9 ✅
+
+- Continued learning the optimized approach for the Two Sum problem.
+- Learned how a Hash Map (Dictionary) stores data as key-value pairs.
+- Understood the formula:
+  - Required Number = Target - Current Number
+- Practiced searching the required number in the dictionary before storing the current number.
+- Learned to store the current number as the key and the current index as the value.
+- Performed multiple dry runs of the Hash Map algorithm without writing code.
+- Understood why the Hash Map approach has **O(n)** time complexity.
+- Improved problem-solving and interview reasoning by explaining each step of the algorithm.
