@@ -118,3 +118,19 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Performed multiple dry runs of the Hash Map algorithm without writing code.
 - Understood why the Hash Map approach has **O(n)** time complexity.
 - Improved problem-solving and interview reasoning by explaining each step of the algorithm.
+
+### Day 10 ✅
+
+- Solved the Two Sum problem using the optimized Hash Map (Dictionary) approach.
+- Created an empty dictionary to store previously visited numbers and their indexes.
+- Learned to calculate the required number using:
+  - Required Number = Target - Current Number
+- Understood why we search the dictionary before storing the current number.
+- Learned to store:
+  - Key = Current Number
+  - Value = Current Index
+- Learned how to return the stored index and the current index when the required number is found.
+- Successfully implemented the complete O(n) solution in Python.
+- Submitted the solution on LeetCode.
+- Achieved **Accepted (64/64 test cases passed)**.
+- Improved understanding of Hash Maps, dictionary lookups, and algorithm optimization.
