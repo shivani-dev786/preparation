@@ -134,3 +134,20 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Submitted the solution on LeetCode.
 - Achieved **Accepted (64/64 test cases passed)**.
 - Improved understanding of Hash Maps, dictionary lookups, and algorithm optimization.
+
+
+### Day 11 ✅
+
+- Learned the difference between Time Complexity and Space Complexity.
+- Revised the complexities of the Two Sum problem:
+  - Brute Force:
+    - Time Complexity: O(n²)
+    - Space Complexity: O(1)
+  - Hash Map:
+    - Time Complexity: O(n)
+    - Space Complexity: O(n)
+- Understood why the Hash Map solution requires O(n) extra space.
+- Practiced dry runs for different test cases.
+- Learned why we must check the dictionary before storing the current number.
+- Discussed the trade-off between execution time and memory usage.
+- Practiced answering interview questions about algorithm selection and optimization.
