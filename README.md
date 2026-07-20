@@ -151,3 +151,15 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned why we must check the dictionary before storing the current number.
 - Discussed the trade-off between execution time and memory usage.
 - Practiced answering interview questions about algorithm selection and optimization.
+
+### Day 12 ✅
+
+- Started a new LeetCode problem: Valid Parentheses.
+- Understood what makes a parentheses string valid and invalid.
+- Solved multiple input/output examples without writing code.
+- Learned that every opening bracket must have a matching closing bracket of the same type.
+- Understood that brackets must be closed in the correct order.
+- Identified that the problem follows the Last In, First Out (LIFO) principle.
+- Learned that the appropriate data structure for this problem is a Stack.
+- Practiced dry-running the stack using sample inputs.
+- Understood that only opening brackets are pushed onto the stack, and matching closing brackets pop the top element.
