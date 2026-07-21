@@ -163,3 +163,12 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned that the appropriate data structure for this problem is a Stack.
 - Practiced dry-running the stack using sample inputs.
 - Understood that only opening brackets are pushed onto the stack, and matching closing brackets pop the top element.
+
+### Day 13 ✅
+
+- Continued solving the Valid Parentheses problem.
+- Learned Stack implementation using a Python list.
+- Practiced `append()` and `pop()` operations.
+- Understood how to match opening and closing brackets.
+- Practiced stack dry runs with multiple examples.
+- Improved understanding of the LIFO (Last In, First Out) principle.
