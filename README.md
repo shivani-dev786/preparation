@@ -171,3 +171,12 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Understood how to match opening and closing brackets.
 - Practiced stack dry runs with multiple examples.
 - Improved understanding of the LIFO (Last In, First Out) principle.
+
+### Day 14 ✅
+
+- Learned Python indexing using `stack[-1]` to access the top of a stack.
+- Understood positive and negative indexing in Python.
+- Learned the difference between `stack[-1]` (view top element) and `stack.pop()` (remove top element).
+- Practiced matching brackets using stack dry runs.
+- Compared Python stack operations with their PHP equivalents.
+- Strengthened understanding of stack-based problem solving before writing the complete algorithm.
