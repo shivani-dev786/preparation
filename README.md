@@ -165,7 +165,6 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Understood that only opening brackets are pushed onto the stack, and matching closing brackets pop the top element.
 
 ### Day 13 ✅
-
 - Continued solving the Valid Parentheses problem.
 - Learned Stack implementation using a Python list.
 - Practiced `append()` and `pop()` operations.
