@@ -180,3 +180,12 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Practiced matching brackets using stack dry runs.
 - Compared Python stack operations with their PHP equivalents.
 - Strengthened understanding of stack-based problem solving before writing the complete algorithm.
+
+### Day 15 ✅
+
+- Started implementing the Valid Parentheses algorithm.
+- Learned to iterate through a string using `for char in s:`.
+- Understood `if char in "([{":` to identify opening brackets.
+- Learned to push opening brackets onto the stack using `stack.append(char)`.
+- Understood why `len(stack) == 0` is checked before matching a closing bracket.
+- Practiced stack dry runs for valid and invalid bracket sequences.
