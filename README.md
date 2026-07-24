@@ -189,3 +189,14 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned to push opening brackets onto the stack using `stack.append(char)`.
 - Understood why `len(stack) == 0` is checked before matching a closing bracket.
 - Practiced stack dry runs for valid and invalid bracket sequences.
+
+
+### Day 16 ✅
+
+- Completed the Valid Parentheses algorithm.
+- Learned to validate matching bracket pairs using a stack.
+- Used `stack[-1]` to compare the top element with the current closing bracket.
+- Returned `False` for invalid bracket pairs or an empty stack.
+- Removed matched brackets using `stack.pop()`.
+- Returned `len(stack) == 0` to verify all brackets were matched.
+- Successfully solved and submitted **LeetCode #20 - Valid Parentheses** ✅
