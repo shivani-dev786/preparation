@@ -200,3 +200,12 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Removed matched brackets using `stack.pop()`.
 - Returned `len(stack) == 0` to verify all brackets were matched.
 - Successfully solved and submitted **LeetCode #20 - Valid Parentheses** ✅
+
+### Day 17 ✅
+
+- Started the Valid Palindrome problem.
+- Understood the concept of a palindrome.
+- Learned the Two Pointers technique.
+- Practiced dry runs using left and right pointers.
+- Understood when to return `False` immediately on a mismatch.
+- Learned when to stop the algorithm and return `True`.
