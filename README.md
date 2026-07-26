@@ -209,3 +209,37 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Practiced dry runs using left and right pointers.
 - Understood when to return `False` immediately on a mismatch.
 - Learned when to stop the algorithm and return `True`.
+
+### Day 18 ✅
+
+- Completed the Valid Palindrome problem.
+- Learned the Two Pointers approach using `left` and `right`.
+- Used `lower()` to ignore uppercase and lowercase differences.
+- Used `isalnum()` to skip spaces and special characters.
+- Learned how and why to use `continue` after skipping invalid characters.
+- Optimized the solution by moving `lower()` outside the loop.
+- Successfully solved and submitted **LeetCode #125 - Valid Palindrome** ✅
+
+
+## Daily Progress
+
+| Day | Topic | Status |
+|-----|-----------------------------------------------------------|--------|
+| 1 | Big O Basics | ✅ |
+| 2 | Arrays Basics | ✅ |
+| 3 | Linear Search + Python Basics | ✅ |
+| 4 | Python Functions | ✅ |
+| 5 | Two Sum Introduction + Nested Loops | ✅ |
+| 6 | LeetCode Function Structure + `pass` | ✅ |
+| 7 | Two Sum Brute Force Solution (LeetCode Accepted) | ✅ |
+| 8 | Hash Map (Dictionary) Introduction | ✅ |
+| 9 | Two Sum Hash Map Algorithm (Dry Run & Optimization Thinking) | ✅ |
+| 10 | Two Sum Optimized Hash Map Solution (LeetCode Accepted) | ✅ |
+| 11 | Time Complexity vs Space Complexity & Algorithm Trade-offs | ✅ |
+| 12 | Valid Parentheses Problem Understanding & Stack Introduction | ✅ |
+| 13 | Stack Operations (`append()`, `pop()`) & Matching Brackets Logic | ✅ |
+| 14 | Python Stack Indexing (`stack[-1]`) & Top of Stack Concept | ✅ |
+| 15 | Valid Parentheses Algorithm (Part 1) | ✅ |
+| 16 | Valid Parentheses (LeetCode Accepted) | ✅ |
+| 17 | Valid Palindrome & Two Pointers Introduction | ✅ |
+| 18 | Valid Palindrome (LeetCode Accepted) | ✅ |
