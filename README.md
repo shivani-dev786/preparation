@@ -221,6 +221,16 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Successfully solved and submitted **LeetCode #125 - Valid Palindrome** ✅
 
 
+### Day 19 ✅
+
+- Started the Valid Anagram problem.
+- Learned what an anagram is with real examples.
+- Understood the Hash Map (Dictionary) frequency counting approach.
+- Learned to store character frequencies from the first string.
+- Learned to decrease character frequencies while traversing the second string.
+- Understood why strings with different lengths cannot be anagrams.
+- Learned the meaning of positive, negative, and zero frequency counts.
+
 ## Daily Progress
 
 | Day | Topic | Status |
@@ -243,3 +253,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 16 | Valid Parentheses (LeetCode Accepted) | ✅ |
 | 17 | Valid Palindrome & Two Pointers Introduction | ✅ |
 | 18 | Valid Palindrome (LeetCode Accepted) | ✅ |
+| 19 | Valid Anagram - Hash Map Frequency Counting | ✅ |
