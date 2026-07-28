@@ -231,6 +231,17 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Understood why strings with different lengths cannot be anagrams.
 - Learned the meaning of positive, negative, and zero frequency counts.
 
+### Day 20 ✅
+
+- Completed the Valid Anagram problem.
+- Implemented the Hash Map (Dictionary) frequency counting approach.
+- Learned to create a frequency map from the first string.
+- Decreased character frequencies while traversing the second string.
+- Added an early return for different string lengths.
+- Verified that all character frequencies become zero.
+- Successfully solved and submitted **LeetCode #242 - Valid Anagram** ✅
+
+
 ## Daily Progress
 
 | Day | Topic | Status |
@@ -254,3 +265,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 17 | Valid Palindrome & Two Pointers Introduction | ✅ |
 | 18 | Valid Palindrome (LeetCode Accepted) | ✅ |
 | 19 | Valid Anagram - Hash Map Frequency Counting | ✅ |
+| 20 | Valid Anagram (LeetCode Accepted) | ✅ |
