@@ -240,7 +240,16 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Added an early return for different string lengths.
 - Verified that all character frequencies become zero.
 - Successfully solved and submitted **LeetCode #242 - Valid Anagram** ✅
+  
+### Day 21 ✅
 
+- Started the Contains Duplicate problem.
+- Learned the Set data structure in Python.
+- Understood the difference between Set and Dictionary.
+- Learned how to check if an element already exists using `in`.
+- Used `seen.add(num)` to store unique elements.
+- Learned to return `True` immediately when a duplicate is found.
+- Successfully solved and submitted **LeetCode #217 - Contains Duplicate** ✅
 
 ## Daily Progress
 
@@ -266,3 +275,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 18 | Valid Palindrome (LeetCode Accepted) | ✅ |
 | 19 | Valid Anagram - Hash Map Frequency Counting | ✅ |
 | 20 | Valid Anagram (LeetCode Accepted) | ✅ |
+| 21 | Contains Duplicate (LeetCode Accepted) | ✅ |
