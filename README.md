@@ -251,6 +251,17 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned to return `True` immediately when a duplicate is found.
 - Successfully solved and submitted **LeetCode #217 - Contains Duplicate** ✅
 
+### Day 22 ✅
+
+- Started the Binary Search problem.
+- Learned that Binary Search works only on sorted arrays.
+- Understood the concepts of `left`, `right`, and `mid`.
+- Learned how to calculate the middle index using `(left + right) // 2`.
+- Understood when to search the left half and right half.
+- Learned when to return the target index and when to return `-1`.
+- Completed the Binary Search algorithm (logic).
+  
+  
 ## Daily Progress
 
 | Day | Topic | Status |
@@ -276,3 +287,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 19 | Valid Anagram - Hash Map Frequency Counting | ✅ |
 | 20 | Valid Anagram (LeetCode Accepted) | ✅ |
 | 21 | Contains Duplicate (LeetCode Accepted) | ✅ |
+| 22 | Binary Search - Algorithm & Dry Run | ✅ |
