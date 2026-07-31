@@ -297,5 +297,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 19 | Valid Anagram - Hash Map Frequency Counting | ✅ |
 | 20 | Valid Anagram (LeetCode Accepted) | ✅ |
 | 21 | Contains Duplicate (LeetCode Accepted) | ✅ |
-| 22 | Binary Search - Algorithm & Dry Run | ✅ |
-| 23 | Binary Search & Search Insert Position Introduction (LeetCode Accepted) | ✅ |
+| 22 | Binary Search - Algorithm & Dry Run | ✅ || 23 | Binary Search & Search Insert Position Introduction (LeetCode Accepted) | ✅ |
