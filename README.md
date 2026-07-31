@@ -261,10 +261,20 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned when to return the target index and when to return `-1`.
 - Completed the Binary Search algorithm (logic).
   
-  
+### Day 23 ✅
+
+- Completed the Binary Search implementation.
+- Solved and submitted **LeetCode #704 - Binary Search** ✅
+- Understood the complete Binary Search algorithm.
+- Learned when to update `left` and `right` pointers.
+- Understood why `return` is used only when the target is found or after the loop ends.
+- Started the **Search Insert Position** problem.
+- Learned the difference between **Binary Search (#704)** and **Search Insert Position (#35)**.
+- Understood that if the target is not found, we return `left` instead of `-1`.
 ## Daily Progress
 
 | Day | Topic | Status |
+
 |-----|-----------------------------------------------------------|--------|
 | 1 | Big O Basics | ✅ |
 | 2 | Arrays Basics | ✅ |
@@ -288,3 +298,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 20 | Valid Anagram (LeetCode Accepted) | ✅ |
 | 21 | Contains Duplicate (LeetCode Accepted) | ✅ |
 | 22 | Binary Search - Algorithm & Dry Run | ✅ |
+| 23 | Binary Search & Search Insert Position Introduction (LeetCode Accepted) | ✅ |
