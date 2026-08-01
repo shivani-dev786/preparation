@@ -271,10 +271,19 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Started the **Search Insert Position** problem.
 - Learned the difference between **Binary Search (#704)** and **Search Insert Position (#35)**.
 - Understood that if the target is not found, we return `left` instead of `-1`.
-## Daily Progress
+
+  ### Day 24 ✅
+
+- Solved and submitted **LeetCode #69 - Sqrt(x)** ✅
+- Learned Binary Search on the answer instead of an array.
+- Understood why the search range is from `0` to `x`.
+- Compared `mid * mid` with `x` to find the integer square root.
+- Learned why `right` stores the last valid answer after the loop ends.
+- Implemented the complete Binary Search solution without assistance.
+
+  ## Daily Progress
 
 | Day | Topic | Status |
-
 |-----|-----------------------------------------------------------|--------|
 | 1 | Big O Basics | ✅ |
 | 2 | Arrays Basics | ✅ |
@@ -297,4 +306,6 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 19 | Valid Anagram - Hash Map Frequency Counting | ✅ |
 | 20 | Valid Anagram (LeetCode Accepted) | ✅ |
 | 21 | Contains Duplicate (LeetCode Accepted) | ✅ |
-| 22 | Binary Search - Algorithm & Dry Run | ✅ || 23 | Binary Search & Search Insert Position Introduction (LeetCode Accepted) | ✅ |
+| 22 | Binary Search - Algorithm & Dry Run | ✅ |
+| 23 | Binary Search (LeetCode Accepted) & Search Insert Position Introduction | ✅ |
+| 24 | Sqrt(x) (LeetCode Accepted) | ✅ |
