@@ -281,7 +281,16 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned why `right` stores the last valid answer after the loop ends.
 - Implemented the complete Binary Search solution without assistance.
 
-  ## Daily Progress
+### Day 25 ✅
+
+- Started the **Move Zeroes** problem.
+- Learned the Two Pointers approach for moving non-zero elements.
+- Understood the purpose of the `insert` pointer.
+- Learned to ignore zeroes while traversing the array.
+- Practiced dry runs to understand how non-zero elements are placed in the correct position.
+- Prepared the algorithm for implementation on the next day.
+  
+## Daily Progress
 
 | Day | Topic | Status |
 |-----|-----------------------------------------------------------|--------|
@@ -309,3 +318,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 22 | Binary Search - Algorithm & Dry Run | ✅ |
 | 23 | Binary Search (LeetCode Accepted) & Search Insert Position Introduction | ✅ |
 | 24 | Sqrt(x) (LeetCode Accepted) | ✅ |
+| 25 | Move Zeroes - Two Pointers Algorithm & Dry Run | ✅ |
