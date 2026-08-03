@@ -289,6 +289,16 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned to ignore zeroes while traversing the array.
 - Practiced dry runs to understand how non-zero elements are placed in the correct position.
 - Prepared the algorithm for implementation on the next day.
+
+### Day 26 ✅
+
+- Solved and submitted **LeetCode #283 - Move Zeroes** ✅
+- Applied the Two Pointers pattern to rearrange an array in-place.
+- Learned the purpose of the `index` (insert) pointer.
+- Understood why `index` is updated only for non-zero elements.
+- Learned why a second loop is required to fill the remaining positions with `0`.
+- Fixed Python syntax mistakes (`for num in nums`, `nums[index]`).
+- Successfully implemented the complete algorithm with minimal guidance.
   
 ## Daily Progress
 
@@ -316,6 +326,7 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 20 | Valid Anagram (LeetCode Accepted) | ✅ |
 | 21 | Contains Duplicate (LeetCode Accepted) | ✅ |
 | 22 | Binary Search - Algorithm & Dry Run | ✅ |
-| 23 | Binary Search (LeetCode Accepted) & Search Insert Position Introduction | ✅ |
+| 23 | Binary Search (LeetCode Accepted) & Search Insert Position | ✅ |
 | 24 | Sqrt(x) (LeetCode Accepted) | ✅ |
-| 25 | Move Zeroes - Two Pointers Algorithm & Dry Run | ✅ |
+| 25 | Move Zeroes - Two Pointers Concept & Dry Run | ✅ |
+| 26 | Move Zeroes (LeetCode Accepted) | ✅ |
