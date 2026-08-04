@@ -299,6 +299,16 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned why a second loop is required to fill the remaining positions with `0`.
 - Fixed Python syntax mistakes (`for num in nums`, `nums[index]`).
 - Successfully implemented the complete algorithm with minimal guidance.
+
+### Day 27 ✅
+
+- Solved and submitted **LeetCode #344 - Reverse String** ✅
+- Strengthened the Two Pointers pattern.
+- Learned how to reverse a string in-place.
+- Understood Python's swap syntax: `s[left], s[right] = s[right], s[left]`.
+- Learned the difference between Python swap and PHP swap using a temporary variable.
+- Understood the concept of in-place modification (no extra array, no return value).
+- Successfully implemented the complete solution with minimal guidance.
   
 ## Daily Progress
 
@@ -330,3 +340,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 24 | Sqrt(x) (LeetCode Accepted) | ✅ |
 | 25 | Move Zeroes - Two Pointers Concept & Dry Run | ✅ |
 | 26 | Move Zeroes (LeetCode Accepted) | ✅ |
+| 27 | Reverse String (LeetCode Accepted) | ✅ |
