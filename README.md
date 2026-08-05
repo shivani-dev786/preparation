@@ -309,7 +309,18 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned the difference between Python swap and PHP swap using a temporary variable.
 - Understood the concept of in-place modification (no extra array, no return value).
 - Successfully implemented the complete solution with minimal guidance.
-  
+
+### Day 28 ✅
+
+- Started **LeetCode #121 - Best Time to Buy and Sell Stock**.
+- Understood the problem statement and buy/sell constraints.
+- Learned why we cannot sell before buying.
+- Understood the purpose of `minPrice` (lowest price seen so far).
+- Learned how to calculate `profit = currentPrice - minPrice`.
+- Understood the purpose of `maxProfit` (maximum profit found so far).
+- Practiced multiple dry runs to understand how `minPrice` and `maxProfit` are updated.
+- Prepared the algorithm for implementation on the next day.
+
 ## Daily Progress
 
 | Day | Topic | Status |
@@ -341,3 +352,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 25 | Move Zeroes - Two Pointers Concept & Dry Run | ✅ |
 | 26 | Move Zeroes (LeetCode Accepted) | ✅ |
 | 27 | Reverse String (LeetCode Accepted) | ✅ |
+| 28 | Best Time to Buy and Sell Stock - Concept & Dry Run | ✅ |
