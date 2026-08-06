@@ -364,4 +364,5 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 25 | Move Zeroes - Two Pointers Concept & Dry Run | ✅ |
 | 26 | Move Zeroes (LeetCode Accepted) | ✅ |
 | 27 | Reverse String (LeetCode Accepted) | ✅ |
-| 28 | Best Time to Buy and Sell Stock - Concept & Dry Run | ✅ |
+| 28 | Best Time to Buy and Sell Stock (LeetCode Accepted) | ✅ |
+| 29 | Merge Sorted Array - Concept & Dry Run | ✅ |
