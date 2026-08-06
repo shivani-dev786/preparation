@@ -320,6 +320,18 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Understood the purpose of `maxProfit` (maximum profit found so far).
 - Practiced multiple dry runs to understand how `minPrice` and `maxProfit` are updated.
 - Prepared the algorithm for implementation on the next day.
+- 
+  ### Day 29 ✅
+
+- Started **LeetCode #88 - Merge Sorted Array**.
+- Understood why merging from the beginning can overwrite valid elements.
+- Learned why we merge from the **end** of the array.
+- Understood the purpose of three pointers:
+  - `i` → Last valid element of `nums1`
+  - `j` → Last element of `nums2`
+  - `k` → Last position of `nums1`
+- Practiced dry runs to understand how elements are compared and placed from right to left.
+- Prepared the algorithm for implementation on the next day.
 
 ## Daily Progress
 
