@@ -333,6 +333,22 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Practiced dry runs to understand how elements are compared and placed from right to left.
 - Prepared the algorithm for implementation on the next day.
 
+  ### Day 30 ✅
+
+- Continued **LeetCode #88 - Merge Sorted Array**.
+- Understood why merging from the beginning overwrites valid elements.
+- Learned the Reverse Traversal approach.
+- Understood the purpose of the three pointers:
+  - `i` → Last valid element of `nums1`
+  - `j` → Last element of `nums2`
+  - `k` → Last position of `nums1`
+- Learned to always place the larger element at `nums1[k]`.
+- Understood which pointer (`i` or `j`) should move after placing an element.
+- Learned the two important edge cases:
+  - `j == -1` → Nothing to do.
+  - `i == -1` → Copy remaining elements of `nums2`.
+- Prepared the complete algorithm for implementation.
+
 ## Daily Progress
 
 | Day | Topic | Status |
@@ -366,3 +382,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 27 | Reverse String (LeetCode Accepted) | ✅ |
 | 28 | Best Time to Buy and Sell Stock (LeetCode Accepted) | ✅ |
 | 29 | Merge Sorted Array - Concept & Dry Run | ✅ |
+| 30 | Merge Sorted Array - Three Pointers & Edge Cases | ✅ |
