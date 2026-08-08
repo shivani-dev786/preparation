@@ -349,6 +349,22 @@ This repository documents my 9-month journey to become a Software Engineer at a 
   - `i == -1` → Copy remaining elements of `nums2`.
 - Prepared the complete algorithm for implementation.
 
+### Day 31 ✅
+
+- Solved and submitted **LeetCode #88 - Merge Sorted Array** ✅
+- Applied the **Three Pointers** technique.
+- Learned why merging from the **end** prevents overwriting valid elements.
+- Used three pointers:
+  - `i` → Last valid element of `nums1`
+  - `j` → Last element of `nums2`
+  - `k` → Last position of `nums1`
+- Compared elements from both arrays and placed the larger element at the end.
+- Understood pointer movement after every comparison.
+- Learned the important edge cases:
+  - `j < 0` → Merge complete.
+  - `i < 0` → Copy remaining elements of `nums2`.
+- Successfully solved the problem with an **O(m + n)** time complexity and **O(1)** extra space.
+
 ## Daily Progress
 
 | Day | Topic | Status |
@@ -383,3 +399,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 28 | Best Time to Buy and Sell Stock (LeetCode Accepted) | ✅ |
 | 29 | Merge Sorted Array - Concept & Dry Run | ✅ |
 | 30 | Merge Sorted Array - Three Pointers & Edge Cases | ✅ |
+| 31 | Merge Sorted Array (LeetCode Accepted) | ✅ |
