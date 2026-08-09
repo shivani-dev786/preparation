@@ -365,6 +365,22 @@ This repository documents my 9-month journey to become a Software Engineer at a 
   - `i < 0` → Copy remaining elements of `nums2`.
 - Successfully solved the problem with an **O(m + n)** time complexity and **O(1)** extra space.
 
+### Day 32 ✅
+
+- Solved and submitted **LeetCode #26 - Remove Duplicates from Sorted Array** ✅
+- Applied the **Two Pointers** technique.
+- Learned how to use two pointers:
+  - `i` → Position of the last unique element.
+  - `j` → Scans the array for the next element.
+- Used the fact that the array is already sorted to identify duplicates efficiently.
+- When `nums[i] == nums[j]`, the element is a duplicate, so only `j` moves forward.
+- When `nums[i] != nums[j]`, a new unique element is found:
+  - Increment `i`.
+  - Copy `nums[j]` to `nums[i]`.
+- Modified the array **in-place** without creating an extra array.
+- Learned why the answer is `i + 1`, because `i` represents an index while the problem requires the count of unique elements.
+- Successfully solved the problem with **O(n) time** and **O(1) extra space**.
+
 ## Daily Progress
 
 | Day | Topic | Status |
@@ -400,3 +416,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 29 | Merge Sorted Array - Concept & Dry Run | ✅ |
 | 30 | Merge Sorted Array - Three Pointers & Edge Cases | ✅ |
 | 31 | Merge Sorted Array (LeetCode Accepted) | ✅ |
+| 32 | Remove Duplicates from Sorted Array (LeetCode Accepted) | ✅ |
