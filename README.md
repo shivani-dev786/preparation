@@ -381,6 +381,20 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned why the answer is `i + 1`, because `i` represents an index while the problem requires the count of unique elements.
 - Successfully solved the problem with **O(n) time** and **O(1) extra space**.
 
+### Day 33 ✅
+
+- Solved and submitted **LeetCode #27 - Remove Element** ✅
+- Applied the **Two Pointers + In-place Modification** technique.
+- Learned how to remove a specific value `val` without creating a new array.
+- Used two pointers:
+  - `i` → Position where the next valid element should be placed.
+  - `j` → Scans the complete array.
+- If `nums[j] == val`, the element is skipped.
+- If `nums[j] != val`, copy `nums[j]` to `nums[i]` and increment `i`.
+- `j` moves forward after every iteration.
+- Understood that the returned value `i` represents the number of remaining valid elements.
+- Successfully solved the problem with **O(n) time** and **O(1) extra space**.
+  
 ## Daily Progress
 
 | Day | Topic | Status |
@@ -417,3 +431,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 30 | Merge Sorted Array - Three Pointers & Edge Cases | ✅ |
 | 31 | Merge Sorted Array (LeetCode Accepted) | ✅ |
 | 32 | Remove Duplicates from Sorted Array (LeetCode Accepted) | ✅ |
+| 33 | Remove Element (LeetCode Accepted) | ✅ |
