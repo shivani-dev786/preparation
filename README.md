@@ -394,6 +394,22 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - `j` moves forward after every iteration.
 - Understood that the returned value `i` represents the number of remaining valid elements.
 - Successfully solved the problem with **O(n) time** and **O(1) extra space**.
+
+### Day 34 ✅
+
+- Solved and submitted **LeetCode #977 - Squares of a Sorted Array** ✅
+- Applied the **Two Pointers** technique from both ends.
+- Learned how negative numbers can produce larger squares than positive numbers.
+- Used:
+  - `i` → Left pointer
+  - `j` → Right pointer
+  - `k` → Position to fill in the result array
+- Compared `abs(nums[i])` and `abs(nums[j])` to find the larger square.
+- Placed the larger square at the end of the result array.
+- Moved only the pointer from which the element was selected.
+- Learned how to handle equal absolute values correctly.
+- Used `** 2` to calculate squares in Python.
+- Successfully solved the problem with **O(n) time** and **O(n) extra space**.
   
 ## Daily Progress
 
@@ -432,3 +448,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 31 | Merge Sorted Array (LeetCode Accepted) | ✅ |
 | 32 | Remove Duplicates from Sorted Array (LeetCode Accepted) | ✅ |
 | 33 | Remove Element (LeetCode Accepted) | ✅ |
+| 34 | Squares of a Sorted Array (LeetCode Accepted) | ✅ |
