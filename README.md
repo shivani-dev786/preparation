@@ -410,6 +410,19 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned how to handle equal absolute values correctly.
 - Used `** 2` to calculate squares in Python.
 - Successfully solved the problem with **O(n) time** and **O(n) extra space**.
+
+### Day 35 🔄
+- Started **LeetCode #141 - Linked List Cycle**.
+- Introduced the **Linked List** data structure.
+- Understood what a **cycle** in a linked list means.
+- Learned the **Two Pointers - Slow & Fast** technique.
+- `slow` moves **1 step** at a time.
+- `fast` moves **2 steps** at a time.
+- Understood that if a cycle exists, `slow` and `fast` will eventually meet.
+- If `fast` or `fast.next` becomes `None`, there is no cycle.
+- Practiced the movement of `slow` and `fast` pointers using dry runs.
+- Started understanding how to detect a cycle without using extra space.
+
   
 ## Daily Progress
 
@@ -449,3 +462,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 32 | Remove Duplicates from Sorted Array (LeetCode Accepted) | ✅ |
 | 33 | Remove Element (LeetCode Accepted) | ✅ |
 | 34 | Squares of a Sorted Array (LeetCode Accepted) | ✅ |
+| 35 | Linked List Cycle - Slow & Fast Pointers Concept & Dry Run | 🔄 |
