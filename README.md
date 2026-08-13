@@ -423,6 +423,19 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Practiced the movement of `slow` and `fast` pointers using dry runs.
 - Started understanding how to detect a cycle without using extra space.
 
+### Day 36 ✅
+
+- Solved and submitted **LeetCode #141 - Linked List Cycle** ✅
+- Learned the **Floyd's Cycle Detection Algorithm**.
+- Applied the **Two Pointers - Slow & Fast** technique.
+- `slow` moves one step at a time.
+- `fast` moves two steps at a time.
+- If `slow == fast`, a cycle exists.
+- If `fast` or `fast.next` becomes `None`, no cycle exists.
+- Understood why the loop condition checks both `fast` and `fast.next`.
+- Successfully detected a cycle without using extra data structures.
+- Time Complexity: **O(n)**
+- Space Complexity: **O(1)**
   
 ## Daily Progress
 
@@ -463,3 +476,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 33 | Remove Element (LeetCode Accepted) | ✅ |
 | 34 | Squares of a Sorted Array (LeetCode Accepted) | ✅ |
 | 35 | Linked List Cycle - Slow & Fast Pointers Concept & Dry Run | 🔄 |
+| 36 | Linked List Cycle - Slow & Fast Pointers (LeetCode Accepted) | ✅ |
