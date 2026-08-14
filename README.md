@@ -436,7 +436,23 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Successfully detected a cycle without using extra data structures.
 - Time Complexity: **O(n)**
 - Space Complexity: **O(1)**
-  
+
+### Day 37 ✅
+
+- Solved and submitted **LeetCode #206 - Reverse Linked List** ✅
+- Learned how to reverse a singly linked list by changing the direction of each node's pointer.
+- Introduced three important pointers:
+  - `prev` → Previous node
+  - `current` → Current node being processed
+  - `next` → Saves the next node before reversing the link
+- Learned the basic reversal sequence:
+  - Save the next node.
+  - Reverse `current.next`.
+  - Move `prev` forward.
+  - Move `current` forward.
+- Understood why the `next` node must be saved before changing the link.
+- Learned that after the loop finishes, `prev` becomes the new head of the reversed list.
+- Successfully solved the problem with **O(n) time** and **O(1) extra space**.
 ## Daily Progress
 
 | Day | Topic | Status |
@@ -477,3 +493,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 34 | Squares of a Sorted Array (LeetCode Accepted) | ✅ |
 | 35 | Linked List Cycle - Slow & Fast Pointers Concept & Dry Run | 🔄 |
 | 36 | Linked List Cycle - Slow & Fast Pointers (LeetCode Accepted) | ✅ |
+| 37 | Reverse Linked List (LeetCode Accepted) | ✅ |
