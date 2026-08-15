@@ -453,6 +453,20 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Understood why the `next` node must be saved before changing the link.
 - Learned that after the loop finishes, `prev` becomes the new head of the reversed list.
 - Successfully solved the problem with **O(n) time** and **O(1) extra space**.
+
+### Day 38 🔄
+
+- Started **LeetCode #21 - Merge Two Sorted Lists**.
+- Learned how to merge two sorted linked lists into one sorted linked list.
+- Understood the use of a **Dummy Node** to simplify the merging process.
+- Used a `current` pointer to build the merged linked list.
+- Compared the current nodes of `list1` and `list2`.
+- Selected the smaller node and attached it to the merged list.
+- Learned that when one list becomes `None`, the remaining part of the other list can be directly attached.
+- Understood why the final answer is `dummy.next` instead of `dummy`.
+- Practiced the **Two Pointers / Linked List traversal** concept.
+- Code implementation and LeetCode submission are pending.
+  
 ## Daily Progress
 
 | Day | Topic | Status |
@@ -494,3 +508,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 35 | Linked List Cycle - Slow & Fast Pointers Concept & Dry Run | 🔄 |
 | 36 | Linked List Cycle - Slow & Fast Pointers (LeetCode Accepted) | ✅ |
 | 37 | Reverse Linked List (LeetCode Accepted) | ✅ |
+| 38 | Merge Two Sorted Lists - Concept & Dry Run | 🔄 |
