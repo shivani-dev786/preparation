@@ -466,6 +466,19 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Understood why the final answer is `dummy.next` instead of `dummy`.
 - Practiced the **Two Pointers / Linked List traversal** concept.
 - Code implementation and LeetCode submission are pending.
+
+### Day 39 ✅
+
+- Solved and submitted **LeetCode #21 - Merge Two Sorted Lists** ✅
+- Merged two sorted linked lists into a single sorted linked list.
+- Used a **Dummy Node** and `current` pointer to build the merged list.
+- Compared `list1.val` and `list2.val` and attached the smaller node.
+- Moved the pointer of the list from which the node was selected.
+- Learned how to attach the remaining list after one list becomes `None`.
+- Used Python's `or` operator to attach the remaining list:
+  - `current.next = list1 or list2`
+- Understood why the final answer is `dummy.next`.
+- Successfully solved the problem with **O(m + n) time** and **O(1) extra space**.
   
 ## Daily Progress
 
@@ -509,3 +522,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 36 | Linked List Cycle - Slow & Fast Pointers (LeetCode Accepted) | ✅ |
 | 37 | Reverse Linked List (LeetCode Accepted) | ✅ |
 | 38 | Merge Two Sorted Lists - Concept & Dry Run | 🔄 |
+| 39 | Merge Two Sorted Lists (LeetCode Accepted) | ✅ |
