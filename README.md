@@ -479,6 +479,22 @@ This repository documents my 9-month journey to become a Software Engineer at a 
   - `current.next = list1 or list2`
 - Understood why the final answer is `dummy.next`.
 - Successfully solved the problem with **O(m + n) time** and **O(1) extra space**.
+
+### Day 40 ✅
+
+- Solved and submitted **LeetCode #19 - Remove Nth Node From End of List** ✅
+- Learned how to remove a node from the end of a Linked List using the **Two Pointers** technique.
+- Used a **Dummy Node** to handle edge cases, especially when removing the first node.
+- Used `fast` and `slow` pointers.
+- First moved `fast` exactly `n` steps ahead using:
+  `for _ in range(n)`
+- Then moved both `slow` and `fast` one step at a time.
+- Stopped when `fast.next` became `None`, placing `slow` just before the node to remove.
+- Removed the node using:
+  `slow.next = slow.next.next`
+- Returned the updated list using:
+  `return dummy.next`
+- Successfully solved the problem with **O(n) time** and **O(1) extra space**.
   
 ## Daily Progress
 
@@ -523,3 +539,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 37 | Reverse Linked List (LeetCode Accepted) | ✅ |
 | 38 | Merge Two Sorted Lists - Concept & Dry Run | 🔄 |
 | 39 | Merge Two Sorted Lists (LeetCode Accepted) | ✅ |
+| 40 | Remove Nth Node From End of List (LeetCode Accepted) | ✅ |
