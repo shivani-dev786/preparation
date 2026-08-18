@@ -495,6 +495,21 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Returned the updated list using:
   `return dummy.next`
 - Successfully solved the problem with **O(n) time** and **O(1) extra space**.
+
+### Day 41 ✅
+
+- Solved and submitted **LeetCode #155 - Min Stack** ✅
+- Learned how to implement a stack that supports retrieving the minimum element in **O(1)** time.
+- Used two stacks:
+  - `stack` → stores all elements.
+  - `minstack` → keeps track of the current minimum values.
+- In `push()`, added the value to `minstack` when it became a new minimum.
+- In `pop()`, removed the value from `minstack` only when the popped value was the current minimum.
+- Used `stack[-1]` for `top()`.
+- Used `minstack[-1]` for `getMin()`.
+- Learned the difference between `.pop()` and accessing the last element using `[-1]`.
+- Successfully solved the problem with **O(1) time** for `push`, `pop`, `top`, and `getMin`.
+- Extra Space: **O(n)**.
   
 ## Daily Progress
 
@@ -540,3 +555,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 38 | Merge Two Sorted Lists - Concept & Dry Run | 🔄 |
 | 39 | Merge Two Sorted Lists (LeetCode Accepted) | ✅ |
 | 40 | Remove Nth Node From End of List (LeetCode Accepted) | ✅ |
+| 41 | Min Stack (LeetCode Accepted) | ✅ |
