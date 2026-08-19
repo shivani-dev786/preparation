@@ -510,6 +510,17 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Learned the difference between `.pop()` and accessing the last element using `[-1]`.
 - Successfully solved the problem with **O(1) time** for `push`, `pop`, `top`, and `getMin`.
 - Extra Space: **O(n)**.
+
+### Day 42 📝
+
+- Revised **Day 41 - LeetCode #155 Min Stack**.
+- Reviewed the concept of using **two stacks**:
+  - `stack` → stores all elements.
+  - `minstack` → tracks the current minimum values.
+- Revised the logic of `push()`, `pop()`, `top()`, and `getMin()`.
+- Practiced understanding why `minstack[-1]` gives the minimum in **O(1)** time.
+- Revised the difference between `stack[-1]` and `stack.pop()`.
+- No new LeetCode problem solved today; focused on revision and strengthening the concept.
   
 ## Daily Progress
 
@@ -556,3 +567,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 39 | Merge Two Sorted Lists (LeetCode Accepted) | ✅ |
 | 40 | Remove Nth Node From End of List (LeetCode Accepted) | ✅ |
 | 41 | Min Stack (LeetCode Accepted) | ✅ |
+| 42 | Min Stack Revision & Notes | 📝 |
