@@ -521,6 +521,15 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Practiced understanding why `minstack[-1]` gives the minimum in **O(1)** time.
 - Revised the difference between `stack[-1]` and `stack.pop()`.
 - No new LeetCode problem solved today; focused on revision and strengthening the concept.
+
+### Day 43 🔄
+
+- Continued **LeetCode #49 - Group Anagrams**.
+- Working with **Hash Map / Dictionary** to group anagrams.
+- Learning how to identify words that contain the same characters.
+- Understanding how to create a common key for each group of anagrams.
+- Practicing grouping strings efficiently without comparing every word with every other word.
+- LeetCode submission pending.
   
 ## Daily Progress
 
@@ -568,3 +577,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 40 | Remove Nth Node From End of List (LeetCode Accepted) | ✅ |
 | 41 | Min Stack (LeetCode Accepted) | ✅ |
 | 42 | Min Stack Revision & Notes | 📝 |
+| 43 | Group Anagrams - Hash Map | 🔄 |
