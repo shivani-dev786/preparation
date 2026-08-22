@@ -537,6 +537,22 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Reviewed my DSA journey and previous problem-solving patterns.
 - Focused on maintaining consistency rather than rushing through a new problem.
 - Next study session: Continue from the pending problem and revise previous concepts.
+
+  ### Day 45 🔄
+
+- Started **LeetCode #49 - Group Anagrams**.
+- Learned what an **Anagram** is: words containing the same characters in a different order.
+- Example: `eat`, `tea`, `ate` are anagrams.
+- Learned that sorting the characters can create a common key:
+  - `eat` → `aet`
+  - `tea` → `aet`
+  - `ate` → `aet`
+- Introduced the use of a **Dictionary / Hash Map** to group words using the sorted key.
+- Practiced creating a key using:
+  `''.join(sorted(word))`
+- Understood the basic idea of checking whether a key already exists in the dictionary.
+- Problem solving is still in progress.
+- LeetCode submission pending.
   
 ## Daily Progress
 
@@ -586,3 +602,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 42 | Min Stack Revision & Notes | 📝 |
 | 43 | Group Anagrams - Hash Map | 🔄 |
 | 44 | DSA Revision & Progress Log | 📝 |
+| 45 | Group Anagrams - Hash Map & Sorting Concept | 🔄 |
