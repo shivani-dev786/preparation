@@ -553,6 +553,22 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Understood the basic idea of checking whether a key already exists in the dictionary.
 - Problem solving is still in progress.
 - LeetCode submission pending.
+
+### Day 46 🔄
+
+- Continued **LeetCode #49 - Group Anagrams**.
+- Practiced creating a common key for each word using:
+  `''.join(sorted(word))`
+- Learned how to use a Dictionary / Hash Map to group anagrams.
+- If the key does not exist:
+  `groups[key] = [word]`
+- If the key already exists:
+  `groups[key].append(word)`
+- Learned that after processing all words, the grouped anagrams can be returned using:
+  `list(groups.values())`
+- Understood the basic flow of grouping anagrams using a Hash Map.
+- Problem solving is still in progress.
+- LeetCode submission pending.
   
 ## Daily Progress
 
@@ -603,3 +619,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 43 | Group Anagrams - Hash Map | 🔄 |
 | 44 | DSA Revision & Progress Log | 📝 |
 | 45 | Group Anagrams - Hash Map & Sorting Concept | 🔄 |
+| 46 | Group Anagrams - Hash Map Logic | 🔄 |
