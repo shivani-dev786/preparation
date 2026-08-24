@@ -569,6 +569,24 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Understood the basic flow of grouping anagrams using a Hash Map.
 - Problem solving is still in progress.
 - LeetCode submission pending.
+
+### Day 47 ✅
+
+- Solved and submitted **LeetCode #49 - Group Anagrams** ✅
+- Learned how to identify anagrams by creating a common key.
+- Used `sorted()` to sort the characters of each word.
+- Created a string key using:
+  `''.join(sorted(word))`
+- Used a **Dictionary / Hash Map** to group words with the same key.
+- If the key did not exist:
+  `groups[key] = [word]`
+- If the key already existed:
+  `groups[key].append(word)`
+- Returned all grouped anagrams using:
+  `list(groups.values())`
+- Understood how Hash Maps can efficiently group related data.
+- Time Complexity: **O(n × k log k)**, where `n` is the number of words and `k` is the maximum word length.
+- Space Complexity: **O(n × k)**.
   
 ## Daily Progress
 
@@ -620,3 +638,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 44 | DSA Revision & Progress Log | 📝 |
 | 45 | Group Anagrams - Hash Map & Sorting Concept | 🔄 |
 | 46 | Group Anagrams - Hash Map Logic | 🔄 |
+| 47 | Group Anagrams - Hash Map & Sorting (LeetCode Accepted) | ✅ |
