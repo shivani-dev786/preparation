@@ -587,6 +587,19 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Understood how Hash Maps can efficiently group related data.
 - Time Complexity: **O(n × k log k)**, where `n` is the number of words and `k` is the maximum word length.
 - Space Complexity: **O(n × k)**.
+
+ ### Day 48 ✅
+
+- Solved and submitted **LeetCode #128 - Longest Consecutive Sequence** ✅
+- Learned how to find the longest consecutive sequence in an unsorted array.
+- Used a **Hash Set** to store unique numbers.
+- Learned that converting the array to a `set` automatically removes duplicates.
+- Identified the starting point of a sequence by checking:
+  `if num - 1 not in numset`
+- Used a `while` loop to count consecutive numbers.
+- Used `longest = max(longest, length)` to keep track of the longest sequence.
+- Understood why the solution works in **O(n) average time**.
+- Extra Space: **O(n)**.
   
 ## Daily Progress
 
@@ -639,3 +652,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 45 | Group Anagrams - Hash Map & Sorting Concept | 🔄 |
 | 46 | Group Anagrams - Hash Map Logic | 🔄 |
 | 47 | Group Anagrams - Hash Map & Sorting (LeetCode Accepted) | ✅ |
+| 48 | Longest Consecutive Sequence - Hash Set (LeetCode Accepted) | ✅ |
