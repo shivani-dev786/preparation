@@ -600,6 +600,20 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Used `longest = max(longest, length)` to keep track of the longest sequence.
 - Understood why the solution works in **O(n) average time**.
 - Extra Space: **O(n)**.
+
+### Day 49 ✅
+
+- Solved **LeetCode #347 - Top K Frequent Elements** ✅
+- Learned how to count the frequency of each element using a **Hash Map / Dictionary**.
+- Used:
+  `count[num] = count.get(num, 0) + 1`
+- Sorted the dictionary keys according to their frequency using:
+  `sorted(count, key=count.get, reverse=True)`
+- Used `[:k]` to get the top `k` frequent elements.
+- Learned how `dict.get()` can simplify frequency counting.
+- Successfully solved the problem.
+- Time Complexity: **O(n log n)**.
+- Space Complexity: **O(n)**.
   
 ## Daily Progress
 
@@ -653,3 +667,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 46 | Group Anagrams - Hash Map Logic | 🔄 |
 | 47 | Group Anagrams - Hash Map & Sorting (LeetCode Accepted) | ✅ |
 | 48 | Longest Consecutive Sequence - Hash Set (LeetCode Accepted) | ✅ |
+| 49 | Top K Frequent Elements - Hash Map | ✅ |
