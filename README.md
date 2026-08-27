@@ -614,6 +614,21 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Successfully solved the problem.
 - Time Complexity: **O(n log n)**.
 - Space Complexity: **O(n)**.
+
+  ### Day 50 🔄
+
+- Started **LeetCode #238 - Product of Array Except Self**.
+- Learned that for each index, we need the product of all elements except the current element.
+- Introduced the concepts of:
+  - **Prefix** → current element ke left side ka product.
+  - **Suffix** → current element ke right side ka product.
+- Learned how to store prefix products in the `answer` array.
+- Learned how to traverse from the right to maintain a `suffix` product.
+- Final answer is obtained by multiplying:
+  `prefix × suffix`
+- Avoided using division.
+- Problem solving is still in progress.
+- LeetCode submission pending.
   
 ## Daily Progress
 
@@ -668,3 +683,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 47 | Group Anagrams - Hash Map & Sorting (LeetCode Accepted) | ✅ |
 | 48 | Longest Consecutive Sequence - Hash Set (LeetCode Accepted) | ✅ |
 | 49 | Top K Frequent Elements - Hash Map | ✅ |
+| 50 | Product of Array Except Self - Prefix & Suffix | 🔄 |
