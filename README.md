@@ -629,6 +629,20 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Avoided using division.
 - Problem solving is still in progress.
 - LeetCode submission pending.
+
+  ### Day 51 ✅
+
+- Solved **LeetCode #238 - Product of Array Except Self** ✅
+- Learned the **Prefix & Suffix Product** technique.
+- For every index, calculated the product of all elements except itself.
+- Used a left-to-right pass to store prefix products.
+- Used a right-to-left pass to multiply suffix products.
+- Learned how to traverse an array backwards using:
+  `range(len(nums) - 1, -1, -1)`
+- Solved the problem without using division.
+- Successfully submitted and got **Accepted** 🎉
+- Time Complexity: **O(n)**
+- Space Complexity: **O(1) extra space** (excluding the output array).
   
 ## Daily Progress
 
@@ -684,3 +698,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 48 | Longest Consecutive Sequence - Hash Set (LeetCode Accepted) | ✅ |
 | 49 | Top K Frequent Elements - Hash Map | ✅ |
 | 50 | Product of Array Except Self - Prefix & Suffix | 🔄 |
+| 51 | Product of Array Except Self - Prefix & Suffix | ✅ |
