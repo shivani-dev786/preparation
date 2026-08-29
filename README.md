@@ -643,6 +643,18 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Successfully submitted and got **Accepted** 🎉
 - Time Complexity: **O(n)**
 - Space Complexity: **O(1) extra space** (excluding the output array).
+
+### Day 52 📚
+
+- Revised **LeetCode #238 - Product of Array Except Self**.
+- Prepared detailed notes for the **Prefix & Suffix Product** approach.
+- Revised how to calculate prefix products using a left-to-right traversal.
+- Revised how to calculate suffix products using a right-to-left traversal.
+- Practiced backward traversal with:
+  `range(len(nums) - 1, -1, -1)`
+- Revised why division is not required.
+- Revised the importance of handling the current element separately.
+- LeetCode #238 was successfully solved and **Accepted** ✅
   
 ## Daily Progress
 
@@ -699,3 +711,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 49 | Top K Frequent Elements - Hash Map | ✅ |
 | 50 | Product of Array Except Self - Prefix & Suffix | 🔄 |
 | 51 | Product of Array Except Self - Prefix & Suffix | ✅ |
+| 52 | Revision & Notes - Product of Array Except Self (#238) | 📚 |
