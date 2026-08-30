@@ -655,6 +655,26 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Revised why division is not required.
 - Revised the importance of handling the current element separately.
 - LeetCode #238 was successfully solved and **Accepted** ✅
+
+### Day 53 ✅
+
+- Solved **LeetCode #15 - 3Sum** ✅
+- Learned the **Sorting + Two Pointers** approach.
+- Sorted the array first to make pointer movement possible.
+- Used three positions:
+  - `i` → fixed element
+  - `left` → moves from left to right
+  - `right` → moves from right to left
+- Compared the sum of three values with `0`:
+  - `total < 0` → `left += 1`
+  - `total > 0` → `right -= 1`
+  - `total == 0` → triplet found 🎯
+- Learned how to handle **duplicate triplets**.
+- Skipped duplicate values of `i`.
+- Skipped duplicate `left` and `right` values after finding a valid triplet.
+- Successfully submitted and got **Accepted** 🎉
+- Time Complexity: **O(n²)**
+- Space Complexity: **O(1)** extra space (excluding the output array).
   
 ## Daily Progress
 
@@ -712,3 +732,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 50 | Product of Array Except Self - Prefix & Suffix | 🔄 |
 | 51 | Product of Array Except Self - Prefix & Suffix | ✅ |
 | 52 | Revision & Notes - Product of Array Except Self (#238) | 📚 |
+| 53 | 3Sum - Sorting + Two Pointers | ✅ |
