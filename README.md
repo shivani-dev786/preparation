@@ -675,6 +675,25 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Successfully submitted and got **Accepted** 🎉
 - Time Complexity: **O(n²)**
 - Space Complexity: **O(1)** extra space (excluding the output array).
+
+ ### Day 54 ✅
+
+- Solved **LeetCode #15 - 3Sum** ✅
+- Learned the **Sorting + Two Pointers** approach.
+- Sorted the array before applying two pointers.
+- Fixed one element using `i` and searched for the remaining two elements.
+- Used the following logic:
+  - `total < 0` → `left += 1`
+  - `total > 0` → `right -= 1`
+  - `total == 0` → triplet found 🎯
+- Learned **duplicate handling**:
+  - Skipped duplicate `i` values.
+  - Skipped duplicate `left` values.
+  - Skipped duplicate `right` values.
+- Successfully submitted the solution and got **Accepted** 🎉
+
+**Time Complexity:** O(n²)  
+**Space Complexity:** O(1) extra space (excluding output)
   
 ## Daily Progress
 
@@ -733,3 +752,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 51 | Product of Array Except Self - Prefix & Suffix | ✅ |
 | 52 | Revision & Notes - Product of Array Except Self (#238) | 📚 |
 | 53 | 3Sum - Sorting + Two Pointers | ✅ |
+| 54 | 3Sum (#15) - Sorting, Two Pointers & Duplicate Handling | ✅ |
