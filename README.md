@@ -691,9 +691,25 @@ This repository documents my 9-month journey to become a Software Engineer at a 
   - Skipped duplicate `left` values.
   - Skipped duplicate `right` values.
 - Successfully submitted the solution and got **Accepted** 🎉
-
 **Time Complexity:** O(n²)  
 **Space Complexity:** O(1) extra space (excluding output)
+
+### Day 55 ✅
+
+- Solved **LeetCode #11 - Container With Most Water** ✅
+- Learned the **Two Pointers** approach.
+- Started with pointers at both ends of the array.
+- Calculated:
+  - Width = `right - left`
+  - Height = `min(height[left], height[right])`
+  - Area = `width × height`
+- Maintained the maximum area using `max_area`.
+- Learned the key Two Pointer rule:
+  - Smaller height → move that pointer.
+- Continued until `left < right`.
+- Successfully submitted the solution and got **Accepted** 🎉
+**Time Complexity:** O(n)  
+**Space Complexity:** O(1)
   
 ## Daily Progress
 
@@ -753,3 +769,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 52 | Revision & Notes - Product of Array Except Self (#238) | 📚 |
 | 53 | 3Sum - Sorting + Two Pointers | ✅ |
 | 54 | 3Sum (#15) - Sorting, Two Pointers & Duplicate Handling | ✅ |
+| 55 | Container With Most Water (#11) - Two Pointers | ✅ |
