@@ -710,6 +710,25 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Successfully submitted the solution and got **Accepted** 🎉
 **Time Complexity:** O(n)  
 **Space Complexity:** O(1)
+
+### Day 56 ✅
+
+- Solved **LeetCode #3 - Longest Substring Without Repeating Characters** ✅
+- Learned the **Sliding Window + Set** approach.
+- Used two pointers:
+  - `left` → window ka starting point
+  - `right` → current character
+- Used a `set()` to track unique characters.
+- If duplicate character mila:
+  - `s[left]` ko `seen` se remove kiya.
+  - `left += 1`
+- Unique character ko `seen` mein add kiya.
+- Current window length:
+  - `right - left + 1`
+- Maximum length ko `maxlength` mein maintain kiya.
+- Successfully submitted the solution and got **Accepted** 🎉
+**Time Complexity:** O(n)  
+**Space Complexity:** O(n)
   
 ## Daily Progress
 
@@ -770,3 +789,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 53 | 3Sum - Sorting + Two Pointers | ✅ |
 | 54 | 3Sum (#15) - Sorting, Two Pointers & Duplicate Handling | ✅ |
 | 55 | Container With Most Water (#11) - Two Pointers | ✅ |
+| 56 | Longest Substring Without Repeating Characters (#3) - Sliding Window + Set | ✅ |
