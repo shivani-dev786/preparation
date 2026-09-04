@@ -747,8 +747,27 @@ This repository documents my 9-month journey to become a Software Engineer at a 
   - Remove `s[left]` from the frequency count.
   - Move `left` forward.
 - Learned that `maxfreq` represents the frequency of the most common character in the current window.
-
 **Current Status:** Learning / Code in Progress 🚧
+  
+### Day 58 ✅
+
+- Solved **LeetCode #424 - Longest Repeating Character Replacement** ✅
+- Learned the **Sliding Window + Frequency Count** approach.
+- Used a dictionary `count` to track character frequencies.
+- Used `left` and `right` pointers to maintain the sliding window.
+- Tracked the most frequent character using `maxfreq`.
+- Learned the key formula:
+
+  `window_size - maxfreq <= k`
+
+- If replacements required were greater than `k`, the window was invalid:
+  - Decreased the frequency of `s[left]`.
+  - Moved `left` forward.
+- Updated the maximum valid window length using `maxlength`.
+- Successfully submitted the solution and got **Accepted** 🎉
+
+**Time Complexity:** O(n)  
+**Space Complexity:** O(n)
 
 ## Daily Progress
 
@@ -811,3 +830,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 55 | Container With Most Water (#11) - Two Pointers | ✅ |
 | 56 | Longest Substring Without Repeating Characters (#3) - Sliding Window + Set | ✅ |
 | 57 | Longest Repeating Character Replacement (#424) - Sliding Window + Frequency Count | 🚧 |
+| 58 | Longest Repeating Character Replacement (#424) - Sliding Window + Frequency Count | ✅ |
