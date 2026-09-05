@@ -769,6 +769,61 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 **Time Complexity:** O(n)  
 **Space Complexity:** O(n)
 
+### Day 59 🔄 — Revision Day
+
+- Revised previously solved **Two Pointers** and **Sliding Window** problems.
+- Revisited the core patterns, pointer movement, conditions, and complexity.
+
+#### 🔁 Problems Revised
+
+- **LeetCode #49 — Group Anagrams**
+  - `sorted(word)` as key
+  - Dictionary grouping
+
+- **LeetCode #128 — Longest Consecutive Sequence**
+  - `set()` for O(1) lookup
+  - Start sequence only when `num - 1` is not present
+
+- **LeetCode #347 — Top K Frequent Elements**
+  - Frequency counting using dictionary
+  - Sorting by frequency
+
+- **LeetCode #238 — Product of Array Except Self**
+  - Prefix and suffix products
+  - O(1) extra space approach
+
+- **LeetCode #125 — Valid Palindrome**
+  - Two pointers
+  - Compare characters from both ends
+
+- **LeetCode #15 — 3Sum**
+  - Sorting + Two Pointers
+  - Duplicate handling
+
+- **LeetCode #11 — Container With Most Water**
+  - Two Pointers
+  - Move the pointer with smaller height
+
+- **LeetCode #3 — Longest Substring Without Repeating Characters**
+  - Sliding Window + Set
+  - Remove duplicates using `left`
+
+- **LeetCode #424 — Longest Repeating Character Replacement**
+  - Sliding Window + Frequency Count
+  - `window_size - maxfreq <= k`
+
+### 🧠 Revision Focus
+
+- Two Pointers
+- Sliding Window
+- HashSet / Set
+- HashMap / Dictionary
+- Frequency Counting
+- Prefix & Suffix
+- Duplicate Handling
+- Time & Space Complexity
+
+
 ## Daily Progress
 
 | Day | Topic | Status |
@@ -831,3 +886,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 56 | Longest Substring Without Repeating Characters (#3) - Sliding Window + Set | ✅ |
 | 57 | Longest Repeating Character Replacement (#424) - Sliding Window + Frequency Count | 🚧 |
 | 58 | Longest Repeating Character Replacement (#424) - Sliding Window + Frequency Count | ✅ |
+| 59 | Revision Day - Two Pointers, Sliding Window, HashMap & Set | 🔄✅ |
