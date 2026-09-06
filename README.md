@@ -774,54 +774,17 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Revised previously solved **Two Pointers** and **Sliding Window** problems.
 - Revisited the core patterns, pointer movement, conditions, and complexity.
 
-#### 🔁 Problems Revised
-
-- **LeetCode #49 — Group Anagrams**
-  - `sorted(word)` as key
-  - Dictionary grouping
-
-- **LeetCode #128 — Longest Consecutive Sequence**
-  - `set()` for O(1) lookup
-  - Start sequence only when `num - 1` is not present
-
-- **LeetCode #347 — Top K Frequent Elements**
-  - Frequency counting using dictionary
-  - Sorting by frequency
-
-- **LeetCode #238 — Product of Array Except Self**
-  - Prefix and suffix products
-  - O(1) extra space approach
-
-- **LeetCode #125 — Valid Palindrome**
-  - Two pointers
-  - Compare characters from both ends
-
-- **LeetCode #15 — 3Sum**
-  - Sorting + Two Pointers
-  - Duplicate handling
-
-- **LeetCode #11 — Container With Most Water**
-  - Two Pointers
-  - Move the pointer with smaller height
-
-- **LeetCode #3 — Longest Substring Without Repeating Characters**
-  - Sliding Window + Set
-  - Remove duplicates using `left`
-
-- **LeetCode #424 — Longest Repeating Character Replacement**
-  - Sliding Window + Frequency Count
-  - `window_size - maxfreq <= k`
-
-### 🧠 Revision Focus
-
-- Two Pointers
-- Sliding Window
-- HashSet / Set
-- HashMap / Dictionary
-- Frequency Counting
-- Prefix & Suffix
-- Duplicate Handling
-- Time & Space Complexity
+### Day 60 ✅
+- Solved LeetCode #567 - Permutation in String
+- Sliding Window + HashMap / Frequency Count
+- Created frequency map for `s1`
+- Maintained a window of size `len(s1)` in `s2`
+- Added/removes characters as the window slides
+- Compared `count == window` to check whether the current window is a permutation of `s1`
+- Dictionary comparison checks same keys with same frequencies
+- `True` if a valid permutation is found, otherwise `False`
+- Time: O(n)
+- Space: O(n)
 
 
 ## Daily Progress
@@ -887,3 +850,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 57 | Longest Repeating Character Replacement (#424) - Sliding Window + Frequency Count | 🚧 |
 | 58 | Longest Repeating Character Replacement (#424) - Sliding Window + Frequency Count | ✅ |
 | 59 | Revision Day - Two Pointers, Sliding Window, HashMap & Set | 🔄✅ |
+| 60 | Permutation in String (#567) — Sliding Window + HashMap | ✅ |
