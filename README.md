@@ -786,6 +786,25 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Time: O(n)
 - Space: O(n)
 
+### Day 61 🔄 — Minimum Window Substring (#76)
+- Started LeetCode #76 - Minimum Window Substring
+- Sliding Window + HashMap / Frequency Count
+- Created `count` dictionary for required characters in `t`
+- Created `window` dictionary for current window in `s`
+- Used `left` and `right` pointers for the sliding window
+- `formed` tracks how many required unique characters have reached their required frequency
+- `required = len(count)`
+- Started tracking minimum window length using `minsubstring`
+- Started storing the actual minimum substring in `answer`
+
+#### Key Concepts
+- Frequency Count
+- Sliding Window
+- `formed == required` → current window is valid
+- `right - left + 1` → current window length
+- Shrink the valid window from the left to find the minimum window
+
+**Day 61 Status:** 🔄 In Progress
 
 ## Daily Progress
 
@@ -851,3 +870,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 58 | Longest Repeating Character Replacement (#424) - Sliding Window + Frequency Count | ✅ |
 | 59 | Revision Day - Two Pointers, Sliding Window, HashMap & Set | 🔄✅ |
 | 60 | Permutation in String (#567) — Sliding Window + HashMap | ✅ |
+| 61 | Minimum Window Substring (#76) | 🔄 |
