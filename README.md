@@ -819,15 +819,20 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 - Final substring can be returned using:
   `s[start:start + minlen]`
 
-#### Key Concepts
-- Sliding Window
-- Frequency Counting
-- `have == need`
-- Window shrinking
-- Minimum window tracking
-- String slicing
+### Day 63 ✅
+- Solved and submitted LeetCode #76 - Minimum Window Substring
+- Sliding Window + HashMap / Frequency Count
+- Used `count` to store required character frequencies from `t`
+- Used `window` to track character frequencies in the current window
+- `need` = total unique characters required
+- `have` = unique characters whose required frequency is satisfied
+- When `have == need`, the current window is valid
+- Shrunk the window from the left to find the smallest valid substring
+- Used `minlen` and `start` to track the minimum window
+- Final answer returned using string slicing
+- Time: O(n)
+- Space: O(n)
 
-**Day 62 Status:** 🔄 In Progress
 
 
 ## Daily Progress
@@ -896,3 +901,4 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 | 60 | Permutation in String (#567) — Sliding Window + HashMap | ✅ |
 | 61 | Minimum Window Substring (#76) | 🔄 |
 | 62 | Minimum Window Substring (#76) | 🔄 |
+| 63 | Minimum Window Substring (#76) | ✅ |
