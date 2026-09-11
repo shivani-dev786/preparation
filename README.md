@@ -837,6 +837,9 @@ This repository documents my 9-month journey to become a Software Engineer at a 
 leetcode problem 76 try to solve in php .,
 revision day
 
+## day 65
+Revised Binary Search leetcode problem 704 
+
 
 ## Daily Progress
 
@@ -905,4 +908,5 @@ revision day
 | 61 | Minimum Window Substring (#76) | 🔄 |
 | 62 | Minimum Window Substring (#76) | 🔄 |
 | 63 | Minimum Window Substring (#76) | ✅ |
-| 63 | Minimum Window Substring (#76) in php| ✅ |
+| 64 | Minimum Window Substring (#76) in php| ✅ |
+| 65 | Revised Binary Search (#704)| ✅ |
