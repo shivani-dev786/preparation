@@ -840,6 +840,19 @@ revision day
 ## day 65
 Revised Binary Search leetcode problem 704 
 
+### Day 66 — Find Minimum in Rotated Sorted Array
+
+**LeetCode #153 — Find Minimum in Rotated Sorted Array**  
+**Pattern:** Binary Search — Rotated Sorted Array
+
+#### Problem
+A rotated sorted array is given. Find the minimum element in the array.
+
+Example:
+```text
+Input:  [4,5,6,7,0,1,2]
+Output: 0
+
 
 ## Daily Progress
 
@@ -910,3 +923,4 @@ Revised Binary Search leetcode problem 704
 | 63 | Minimum Window Substring (#76) | ✅ |
 | 64 | Minimum Window Substring (#76) in php| ✅ |
 | 65 | Revised Binary Search (#704)| ✅ |
+| 66 |#153 Find Minimum in Rotated Sorted Array - Binary Search| ✅ |
