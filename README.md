@@ -923,4 +923,4 @@ Output: 0
 | 63 | Minimum Window Substring (#76) | ✅ |
 | 64 | Minimum Window Substring (#76) in php| ✅ |
 | 65 | Revised Binary Search (#704)| ✅ |
-| 66 |#153 Find Minimum in Rotated Sorted Array - Binary Search| ✅ |
+| 66 | #153 Find Minimum in Rotated Sorted Array - Binary Search| ✅ |
