@@ -853,6 +853,18 @@ Example:
 Input:  [4,5,6,7,0,1,2]
 Output: 0
 
+### Day 67 — Search in Rotated Sorted Array
+**LeetCode #33 — Search in Rotated Sorted Array**  
+**Pattern:** Binary Search — Rotated Sorted Array
+
+#### Problem
+A rotated sorted array is given along with a target value. Find the index of the target using **O(log n)** time.
+
+Example:
+```text
+Input:  nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+
 
 ## Daily Progress
 
@@ -921,6 +933,7 @@ Output: 0
 | 61 | Minimum Window Substring (#76) | 🔄 |
 | 62 | Minimum Window Substring (#76) | 🔄 |
 | 63 | Minimum Window Substring (#76) | ✅ |
-| 64 | Minimum Window Substring (#76) in php| ✅ |
-| 65 | Revised Binary Search (#704)| ✅ |
-| 66 | #153 Find Minimum in Rotated Sorted Array - Binary Search| ✅ |
+| 64 | Minimum Window Substring (#76) in php | ✅ |
+| 65 | Revised Binary Search (#704) | ✅ |
+| 66 | #153 Find Minimum in Rotated Sorted Array - Binary Search | ✅ |
+| 67 | #33 Search in Rotated Sorted Array | ✅ |
