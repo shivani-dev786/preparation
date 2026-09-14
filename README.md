@@ -1,4 +1,4 @@
-xx# MNC Interview Preparation 🚀
+1xx# MNC Interview Preparation 🚀
 
 Hi, I'm Shivani.
 
@@ -849,7 +849,6 @@ Revised Binary Search leetcode problem 704
 A rotated sorted array is given. Find the minimum element in the array.
 
 Example:
-```text
 Input:  [4,5,6,7,0,1,2]
 Output: 0
 
@@ -861,9 +860,27 @@ Output: 0
 A rotated sorted array is given along with a target value. Find the index of the target using **O(log n)** time.
 
 Example:
-```text
 Input:  nums = [4,5,6,7,0,1,2], target = 0
 Output: 4
+
+### Day 68 — Search a 2D Matrix
+
+**LeetCode #74 — Search a 2D Matrix**  
+**Pattern:** Binary Search — 2D Matrix
+
+#### Problem
+A sorted 2D matrix is given along with a target value. Find whether the target exists in the matrix using Binary Search.
+
+Example:
+Input:
+matrix = [
+  [1,  3,  5,  7],
+  [10, 11, 16, 20],
+  [23, 30, 34, 60]
+]
+target = 3
+
+Output: True
 
 
 ## Daily Progress
@@ -937,3 +954,4 @@ Output: 4
 | 65 | Revised Binary Search (#704) | ✅ |
 | 66 | #153 Find Minimum in Rotated Sorted Array - Binary Search | ✅ |
 | 67 | #33 Search in Rotated Sorted Array | ✅ |
+| 68 | #74 Search a 2D Matrix - Binary Search | ✅ |
