@@ -882,6 +882,20 @@ target = 3
 
 Output: True
 
+### Day 69 — Find Peak Element
+
+**LeetCode #162 — Find Peak Element**  
+**Pattern:** Binary Search
+
+#### Problem
+Given an array of integers, find a **peak element** and return its index.
+
+A peak element is an element that is **strictly greater than its neighboring elements**.
+
+Example:
+Input:  nums = [1,2,3,1]
+Output: 2
+
 
 ## Daily Progress
 
@@ -955,3 +969,4 @@ Output: True
 | 66 | #153 Find Minimum in Rotated Sorted Array - Binary Search | ✅ |
 | 67 | #33 Search in Rotated Sorted Array | ✅ |
 | 68 | #74 Search a 2D Matrix - Binary Search | ✅ |
+| 69 | #162 Find Peak Element - Binary Search | 🔄 |
