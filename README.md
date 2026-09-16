@@ -970,3 +970,4 @@ Output: 2
 | 67 | #33 Search in Rotated Sorted Array | ✅ |
 | 68 | #74 Search a 2D Matrix - Binary Search | ✅ |
 | 69 | #162 Find Peak Element - Binary Search | 🔄 |
+| 70 | #162 Find Peak Element - Binary Search |  ✅ |
