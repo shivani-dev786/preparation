@@ -926,7 +926,6 @@ Find the **minimum eating speed `k`** that allows Koko to finish all bananas wit
 Input:
 piles = [3,6,7,11]
 h = 8
-
 Output:
 4
 
@@ -1003,5 +1002,5 @@ Output:
 | 67 | #33 Search in Rotated Sorted Array | ✅ |
 | 68 | #74 Search a 2D Matrix - Binary Search | ✅ |
 | 69 | #162 Find Peak Element - Binary Search | 🔄 |
-| 70 | #162 Find Peak Element - Binary Search |  ✅ |
-| 71 | #875 Koko Eating Bananas - Binary Search on Answer | 🔄 |
+| 70 | #162 Find Peak Element - Binary Search | ✅ |
+| 71 | #875 Koko Eating Bananas - Binary Search on Answer | ✅ |
