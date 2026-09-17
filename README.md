@@ -896,6 +896,39 @@ Example:
 Input:  nums = [1,2,3,1]
 Output: 2
 
+### Day 70  — Find Peak Element
+
+**LeetCode #162 — Find Peak Element**  
+**Pattern:** Binary Search
+
+#### Problem
+Given an array of integers, find a peak element and return its index.
+
+A peak element is an element that is strictly greater than its neighboring elements.
+
+Example:
+Input:  nums = [1,2,3,1]
+Output: 2
+
+### Day 71 — Koko Eating Bananas
+
+**LeetCode #875 — Koko Eating Bananas**  
+**Pattern:** Binary Search on Answer
+
+#### Problem
+Koko has several piles of bananas and `h` hours to eat all the bananas.
+
+She can eat at a fixed speed `k` bananas per hour.
+
+Find the **minimum eating speed `k`** that allows Koko to finish all bananas within `h` hours.
+
+#### Example
+Input:
+piles = [3,6,7,11]
+h = 8
+
+Output:
+4
 
 ## Daily Progress
 
@@ -971,3 +1004,4 @@ Output: 2
 | 68 | #74 Search a 2D Matrix - Binary Search | ✅ |
 | 69 | #162 Find Peak Element - Binary Search | 🔄 |
 | 70 | #162 Find Peak Element - Binary Search |  ✅ |
+| 71 | #875 Koko Eating Bananas - Binary Search on Answer | 🔄 |
