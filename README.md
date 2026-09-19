@@ -1020,4 +1020,4 @@ Output:
 | 69 | #162 Find Peak Element - Binary Search | 🔄 |
 | 70 | #162 Find Peak Element - Binary Search | ✅ |
 | 71 | #875 Koko Eating Bananas - Binary Search on Answer | ✅ |
-| 71 | #1011 Capacity To Ship Packages Within D Days - Binary Search on Answer | 🔄 |
+| 72 | #1011 Capacity To Ship Packages Within D Days - Binary Search on Answer | 🔄 |
