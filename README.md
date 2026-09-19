@@ -945,6 +945,25 @@ days = 5
 Output:
 15
 
+### Day 73 — Capacity To Ship Packages Within D Days
+
+**LeetCode #1011 — Capacity To Ship Packages Within D Days**  
+**Pattern:** Binary Search on Answer
+
+#### Problem
+Given package weights and a number of days, find the minimum ship capacity required to ship all packages within the given number of days.
+
+The packages must be shipped **in the given order**.
+
+#### Example
+
+Input:
+weights = [1,2,3,4,5,6,7,8,9,10]
+days = 5
+
+Output:
+15
+
 ## Daily Progress
 
 | Day | Topic | Status |
@@ -1021,3 +1040,4 @@ Output:
 | 70 | #162 Find Peak Element - Binary Search | ✅ |
 | 71 | #875 Koko Eating Bananas - Binary Search on Answer | ✅ |
 | 72 | #1011 Capacity To Ship Packages Within D Days - Binary Search on Answer | 🔄 |
+| 73 | #1011 Capacity To Ship Packages Within D Days - Binary Search on Answer | ✅ |
