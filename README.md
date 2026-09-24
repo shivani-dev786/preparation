@@ -966,6 +966,7 @@ Output:
 
 ### Day 74 practice Mock Test
 ### Day 75 practice Mock Test
+### Day 76 practice Mock Test
 ## Daily Progress
 
 | Day | Topic | Status |
@@ -1045,3 +1046,4 @@ Output:
 | 73 | #1011 Capacity To Ship Packages Within D Days - Binary Search on Answer | ✅ |
 | 74 | Practice Mock Test | ✅ |
 | 75 | Practice Mock Test | ✅ |
+| 76 | Practice Mock Test | ✅ |
