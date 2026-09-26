@@ -968,6 +968,7 @@ Output:
 ### Day 75 practice Mock Test
 ### Day 76 practice Mock Test
 ### Day 77 practice Mock Test
+### Day 78 practice Mock Test
 ## Daily Progress
 
 | Day | Topic | Status |
@@ -1049,3 +1050,4 @@ Output:
 | 75 | Practice Mock Test | ✅ |
 | 76 | Practice Mock Test | ✅ |
 | 77 | Practice Mock Test | ✅ |
+| 78 | Practice Mock Test | ✅ |
